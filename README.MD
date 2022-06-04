@@ -111,3 +111,6 @@ I am currently acquiring new knowledge about it.</div>
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+
+<a href="https://github.com/kchauxs" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julian-Azange&langs_count =10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Principales%20%Idiomas" alt="Principales idiomas" /></a>
