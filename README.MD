@@ -101,7 +101,8 @@ I am currently acquiring new knowledge about it.</div>
 
 ## Languages Stats
 <div align="center">
-<a href="https://github.com/Julian-Azange" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julian-Azange&langs_count =10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Principales%20%Idiomas" alt="Principales idiomas" /></a>
+<a href="https://github.com/Julian-Azange" alt="Principales idiomas" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=LuissMontoya&&show_icons=true&theme=tokyonight&line_height=27&v=5" alt="LuissMontoya's GitHub Stats" />
 </div> 
 
 
