@@ -92,9 +92,9 @@ I am currently acquiring new knowledge about it.</div>
 
 
 ## Github Stats  
-<div align="center"><a href="http://www.github.com/Julian-Azange"> alt="Estadísticas de GitHub de Julian-Azange" /></a>
+<div align="center"><a href="http://www.github.com/Julian-Azange"><img src="[https://github-readme-stats.vercel.app/api?username=Julian-Azange&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color =ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Julian-Azange&theme=tokyonight)](https://github.com/Julian-Azange/github-readme-stats)" alt="Estadísticas de GitHub de Julian-Azange" /></a>
   
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julian-Azange&theme=tokyonight)](https://github.com/Julian-Azange/github-readme-stats)
 </div>  
 
 <br/>  
