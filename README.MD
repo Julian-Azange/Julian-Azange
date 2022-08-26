@@ -102,7 +102,7 @@ I am currently acquiring new knowledge about it.</div>
 ## Languages Stats
 <div align="center">
 <a href="https://github.com/Julian-Azange" alt="Principales idiomas" /></a>
-<img src="https://github-readme-stats.vercel.app/api?username=LuissMontoya&&show_icons=true&theme=tokyonight&line_height=27&v=5" alt="LuissMontoya's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Julian-Azange&&show_icons=true&theme=tokyonight&line_height=27&v=5" alt="Julian-Azange GitHub Stats" />
 </div> 
 
 
