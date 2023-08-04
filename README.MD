@@ -70,8 +70,8 @@
 
 
 ## Connect with me  
+- You can find me on various social media platforms. Let's connect and share our knowledge!
 <div align="center">
-You can find me on various social media platforms. Let's connect and share our knowledge!
 <a href="https://github.com/Julian-Azange" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
