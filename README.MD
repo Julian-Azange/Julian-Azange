@@ -3,15 +3,13 @@
 </div>  
   
 
-### <div align="center">Hello, I'm Julian Azange passionate about mobile development with flutter.
-I am currently acquiring new knowledge about it.</div>  
+### <div align="center">Hello there! 👋 I'm Julian Azange, an enthusiastic developer passionate about frontend web and mobile development. I love creating beautiful and intuitive user interfaces that provide seamless experiences.</div>  
   
 
-- 👨‍💻I am currently studying Systems Engineering.  
-  
+## About Me
 
-- 🦾I am learning mobile app development with Flutter.  
-  
+- 👨‍💻 I am currently studying Systems Engineering, which has given me a solid foundation in software development and problem-solving skills.
+- 🦾 My primary focus is on frontend development for both web and mobile platforms. I enjoy working with modern technologies and tools to craft engaging and responsive user interfaces.
 
 <br/>
 
@@ -73,6 +71,7 @@ I am currently acquiring new knowledge about it.</div>
 
 ## Connect with me  
 <div align="center">
+You can find me on various social media platforms. Let's connect and share our knowledge!
 <a href="https://github.com/Julian-Azange" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -93,7 +92,7 @@ I am currently acquiring new knowledge about it.</div>
 
 ## Github Stats  
 <div align="center"><a alt="Estadísticas de GitHub de Julian-Azange" /></a>
-  
+  Feel free to explore my repositories to find interesting projects and collaborate with me. If you have any questions or just want to say hi, don't hesitate to reach out. Let's create amazing things together! 🚀
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julian-Azange&theme=tokyonight)](https://github.com/Julian-Azange/github-readme-stats)
 </div>  
 
