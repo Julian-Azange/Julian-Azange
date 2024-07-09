@@ -15,7 +15,9 @@
 
 ## Daily.dev  
 <div align="center">  
-<a href="https://app.daily.dev/Julian_Azange"><img src="https://api.daily.dev/devcards/564eaeec073346a7814261daffc51500.png?r=lhj" width="400" alt="Cristian Julian Murcia Palomares's Dev Card"/></a>
+<a href="https://app.daily.dev/Julian_Azange">
+<img src="https://api.daily.dev/devcards/564eaeec073346a7814261daffc51500.png?r=lhj" width="250" alt="Cristian Julian Murcia Palomares's Dev Card"/>
+</a>
 </div>
 
 <br/>
