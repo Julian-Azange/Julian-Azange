@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
-  <h1>Hi there, I'm <a href="https://github.com/Julian-Azange">Julian Azange</a>! 👋</h1>
+  <h1>Hi there, I'm <a href="https://github.com/Julian-Azange">Julian Palomares</a>! 👋</h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Frontend+%26+Mobile+Developer;Angular+%26+React+Specialist;Building+Seamless+UI%2FUX;Coffee+Lover+%E2%98%95" alt="Typing SVG" />
